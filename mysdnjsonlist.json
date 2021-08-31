@@ -1,0 +1,970 @@
+{
+    "Sheet1": [
+        {
+            "Sanctions List:": "CAPTA",
+            "Program": "Balkans-Related Sanctions",
+            "Program Tag": "​[561-RELATED]",
+            "​Definition": "​Correspondent Account or Payable-Through Account Sanctions related to 31 C.F.R. part 561"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "[BALKANS]​",
+            "​Definition": "Western Balkans Stabilization Regulations, 31 C.F.R. part 588; Executive Order 13304"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​Belarus Sanctions",
+            "Program Tag": "[BELARUS]​",
+            "​Definition": "Belarus Sanctions Regulations, 31 C.F.R. part 548; Executive Order 13405"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "[BPI-PA]​",
+            "​Definition": "Blocked Pending Investigation, Patriot Act"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "[BPI-SDNTK]​",
+            "​Definition": "Blocked Pending Investigation, Foreign Narcotics Kingpin Sanctions Regulations, 31 C.F.R. part 598"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "Burma-Related Sanctions",
+            "Program Tag": "[BURMA-EO14014]",
+            "​Definition": "Executive Order 14014"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​Burundi Sanctions",
+            "Program Tag": "​[BURUNDI]",
+            "​Definition": "​Executive Order 13712"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​Countering America's Adversaries Through Sanctions Act of 2017 (CAATSA)",
+            "Program Tag": "[CAATSA - IRAN]",
+            "​Definition": "Countering America's Adversaries Through Sanctions Act of 2017 (CAATSA) - Title I"
+        },
+        {
+            "Sanctions List:": "​NS-MBS / SDN",
+            "Program Tag": "​[CAATSA - RUSSIA]",
+            "​Definition": "​Countering America's Adversaries Through Sanctions Act of 2017 (CAATSA) - Title II"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "Central African Republic Sanctions",
+            "Program Tag": "​[CAR]",
+            "​Definition": "​Central African Republic Sanctions, 31 C.F.R. part 553"
+        },
+        {
+            "Sanctions List:": "NS-CMIC",
+            "Program": "Chinese Military Companies Sanctions",
+            "Program Tag": "[CMIC-EO13959]",
+            "​Definition": "Executive Order 13959 as amended by Executive Order 14032"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​Cuba Sanctions",
+            "Program Tag": "[CUBA]​",
+            "​Definition": "Cuban Assets Control Regulations, 31 C.F.R. part 515"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​Cyber-Related Sanctions",
+            "Program Tag": "​[CYBER2]",
+            "​Definition": "Executive Order 13694; ​Executive Order 13757"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​Sudan and Darfur Sanctions",
+            "Program Tag": "[DARFUR]​",
+            "​Definition": "Darfur Sanctions Regulations, 31 C.F.R. part 546"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​North Korea Sanctions  ",
+            "Program Tag": "[DPRK]​",
+            "​Definition": "North Korea Sanctions Regulations, 31 C.F.R. part 510; Executive Order 13551"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "​[DPRK2]",
+            "​Definition": "​Executive Order 13687"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "​[DPRK3]",
+            "​Definition": "​Executive Order 13722"
+        },
+        {
+            "Sanctions List:": "​SDN",
+            "Program Tag": "​[DPRK4]",
+            "​Definition": "Executive Order 13810"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "[DPRK-NKSPEA]",
+            "​Definition": "North Korea Sanctions and Policy Enhancement Act of 2016, Public Law 114-122, as amended by the Countering America’s Adversaries Through Sanctions Act, Public Law 115-44 and National Defense Appropriations Act of 2020, Public Law 116-92​"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​Democratic Republic of the Congo-Related Sanctions",
+            "Program Tag": "[DRCONGO]​",
+            "​Definition": "Democratic Republic of the Congo Sanctions Regulations, 31 C.F.R. 547​"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​Foreign Interference in a United States Election Sanctions",
+            "Program Tag": "[​ELECTION-EO13848]",
+            "​Definition": "Executive Order 13848 "
+        },
+        {
+            "Sanctions List:": "FSE",
+            "Program Tag": "[FSE-SY]​",
+            "​Definition": "Foreign Sanctions Evaders Executive Order 13608 - Syria​"
+        },
+        {
+            "Sanctions List:": "FSE",
+            "Program Tag": "[FSE-IR]​",
+            "​Definition": "Foreign Sanctions Evaders Executive Order 13608 - Iran​"
+        },
+        {
+            "Sanctions List:": "FSE",
+            "Program Tag": "[FSE-WMD]​",
+            "​Definition": "​Foreign Sanctions Evaders Executive Order 13608 - Non Proliferation"
+        },
+        {
+            "Sanctions List:": "FSE",
+            "Program Tag": "[FSE-SDGT]​",
+            "​Definition": "Foreign Sanctions Evaders Executive Order 13608 - Anti-terrorism​"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​Counter Terrorism Sanctions",
+            "Program Tag": "[FTO]​",
+            "​Definition": "Foreign Terrorist Organizations Sanctions Regulations, 31 C.F.R. part 597"
+        },
+        {
+            "Sanctions List:": "​SDN",
+            "Program": "​Global Magnitsky Sanctions",
+            "Program Tag": "​[GLOMAG]",
+            "​Definition": "Executive Order 13818 -  Global Magnitsky"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "[HIFPAA]",
+            "​Definition": "Hizballah International Financing Prevention Amendments Act of 2018, Public Law No: 115-272"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "Hong Kong-Related Sanctions",
+            "Program Tag": "[HK-EO13936]",
+            "​Definition": "Executive Order 13936"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "Syria Sanctions",
+            "Program Tag": "[HRIT-SY]​",
+            "​Definition": "Executive Order 13606  - Syria​"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​Iran Sanctions",
+            "Program Tag": "[HRIT-IR]​",
+            "​Definition": "Executive Order 13606  - Iran​"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "[IFCA]​",
+            "​Definition": "Iran Freedom and Counter-Proliferation Act of 2012 (IFCA) (PL 112-239)​"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "[IFSR]​",
+            "​Definition": "Iranian Financial Sanctions Regulations, 31 CFR part 561"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "[IRAN]​",
+            "​Definition": "Iranian Transactions and Sanctions Regulations, 31 CFR part 560​"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "[IRAN-CON-ARMS-EO]",
+            "​Definition": "Executive Order 13949"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "[IRAN-EO13846]",
+            "​Definition": "Executive Order 13846"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "[IRAN-EO13876]",
+            "​Definition": "Executive Order 13876"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "[IRAN-EO13871]",
+            "​Definition": "Executive Order 13871"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "[IRAN-EO13902]",
+            "​Definition": "Executive Order 13902"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "[IRAN-HR]​",
+            "​Definition": "Executive Order 13553​"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "[IRAN-TRA]​",
+            "​Definition": "Iran Threat Reduction and Syria Human Rights Act of 2012​"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​Iraq-Related Sanctions",
+            "Program Tag": "[IRAQ2]​",
+            "​Definition": "Executive Order 13315; Executive Order 13350"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "[IRAQ3]​",
+            "​Definition": "Executive Order 13438"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​Iran Sanctions",
+            "Program Tag": "[IRGC]​",
+            "​Definition": "Iranian Financial Sanctions Regulations, 31 CFR Part 561​"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​Iran Sanctions",
+            "Program Tag": "[ISA]​",
+            "​Definition": "Iran Sanctions Act, Executive Order 13574​"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​Lebanon-Related Sanctions",
+            "Program Tag": "[LEBANON]​",
+            "​Definition": "Lebanon Sanctions Regulations, 31 C.F.R. part 549; Executive Order 13441"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​Libya Sanctions",
+            "Program Tag": "[LIBYA2]​",
+            "​Definition": "Libyan Sanctions,  31 C.F.R. part 570"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "​[LIBYA3]",
+            "​Definition": "Executive Order 13726"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "Magnitsky Sanctions",
+            "Program Tag": "[MAGNIT]​",
+            "​Definition": "Sergei Magnitsky Rule of Law Accountability Act of 2012​"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "Mali-Related Sanctions",
+            "Program Tag": "[MALI-EO13882]",
+            "​Definition": "Executive Order 13882"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "[NDAA]",
+            "​Definition": "Section 1245 of the National Defense Authorization Act for Fiscal Year 2012, P.L. 112-81, As Amended Through Public Law 115-91, Enacted December 12, 2017"
+        },
+        {
+            "Program": "​Nicaragua-Related Sanctions",
+            "Program Tag": "[NICARAGUA]",
+            "​Definition": "Executive Order 13851"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "[NICARAGUA-NHRAA]",
+            "​Definition": "Nicaragua Human Rights and Anticorruption Act of 2018"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​Non-Proliferation Sanctions",
+            "Program Tag": "[NPWMD]​",
+            "​Definition": "Weapons of Mass Destruction Proliferators Sanctions Regulations, 31 C.F.R. part 544​"
+        },
+        {
+            "Sanctions List:": "NS-ISA",
+            "Program Tag": "​[NS-ISA]",
+            "​Definition": "​Non-SDN Iranian Sanctions Act, Executive Order 13574​"
+        },
+        {
+            "Sanctions List:": "PLC",
+            "Program": "​Counter Terrorism Sanctions",
+            "Program Tag": "​[NS-PLC]​",
+            "​Definition": "​Non-SDN, Palestinian Legislative Council List, General License 4​ issued pursuant to the Global Terrorism Sanctions Regulations (31 C.F.R. Part 594),"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "[PEESA]",
+            "​Definition": "Protecting Europe’s Energy Security Act (PEESA)"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "Russian Harmful Foreign Activities Sanctions",
+            "Program Tag": "[RUSSIA-EO14024]",
+            "​Definition": "Executive Order 14024"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​Counter Terrorism Sanctions",
+            "Program Tag": "[SDGT]​",
+            "​Definition": "Global Terrorism Sanctions Regulations, 31 C.F.R. part 594​"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​Counter Narcotics Trafficking Sanctions",
+            "Program Tag": "[SDNT]​",
+            "​Definition": "Narcotics Trafficking Sanctions Regulations, 31 C.F.R. part 536​"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "[SDNTK]",
+            "​Definition": "Foreign Narcotics Kingpin Sanctions Regulations, 31 C.F.R. part 598​"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​Somalia Sanctions",
+            "Program Tag": "[SOMALIA]​",
+            "​Definition": "Somalia Sanctions Regulations, 31 C.F.R. part 551​"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​Sudan and Darfur Sanctions",
+            "Program Tag": "[SUDAN]​",
+            "​Definition": "Sudanese Sanctions Regulations, 31 C.F.R. part 538​"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​South Sudan-Related Sanctions",
+            "Program Tag": "​[SOUTH SUDAN]​",
+            "​Definition": "​South Sudan Sanctions Regulations, 31 C.F.R. part 558; Executive Order 13664"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​Syria Sanctions",
+            "Program Tag": "[SYRIA]​",
+
+
+            "​Definition": "Executive Order 13338; Executive Order 13399; Executive Order 13460; Executive Order 13572; Executive Order 13573; Executive Order 13582"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "[SYRIA-CAESAR]",
+            "​Definition": "Sections 7404-7438 of the National Defense Authorization Act for Fiscal Year 2020, Title LXXIV—Caesar Syria Civilian Protection Act of 2019​​"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "Syria-Related Sanctions",
+            "Program Tag": "[SYRIA-EO13894]",
+            "​Definition": "Executive Order on the Situation in Syria of October 14, 2019"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​Transnational Criminal Organizations",
+            "Program Tag": "[TCO]​",
+            "​Definition": "Transnational Criminal Organizations Sanctions Regulations, 31 C.F.R. part 590; ​Executive Order 13581"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​Ukraine-/Russia-Related Sanctions",
+            "Program Tag": "[UKRAINE-EO13660]​",
+            "​Definition": "Executive Order 13660​"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "[UKRAINE-EO13661]​",
+            "​Definition": "Executive Order 13661​"
+        },
+        {
+            "Sanctions List:": "SSI / SDN",
+            "Program Tag": "​[UKRAINE-EO13662]",
+            "​Definition": "​Executive Order 13662 (See Directive 1 As Amended, Directive 2 as Amended, Directive 3, Directive 4)"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "​​[UKRAINE-EO13685]",
+            "​Definition": "​Executive Order 13685"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​Venezuela-Related Sanctions",
+            "Program Tag": "​[VENEZUELA]  ",
+            "​Definition": "​​Executive Order 13692​"
+        },
+        {
+            "Sanctions List:": "​SDN",
+            "Program Tag": "​[VENEZUELA-EO13850]",
+            "​Definition": "​Executive Order 13850"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program Tag": "[VENEZUELA-EO13884]",
+            "​Definition": "Executive Order 13884"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​Yemen-Related Sanctions",
+            "Program Tag": "​[YEMEN]",
+            "​Definition": "​Yemen Sanctions Regulations, 31 C.F.R. part 552"
+        },
+        {
+            "Sanctions List:": "SDN",
+            "Program": "​Zimbabwe Sanctions",
+            "Program Tag": "[ZIMBABWE]​",
+            "​Definition": "Zimbabwe Sanctions Regulations, 31 C.F.R. part 541; Executive Order 13391; Executive Order 13469"
+        }
+    ],
+    "Sheet2": [
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "Balkans-Related Sanctions",
+            "​PROGRAM LAST UPDATED:": "​06/08/2021"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​Belarus Sanctions",
+            "​PROGRAM LAST UPDATED:": "​06/28/2021"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "Burma-Related Sanctions",
+            "​PROGRAM LAST UPDATED:": "2/7/21"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​Burundi Sanctions",
+            "​PROGRAM LAST UPDATED:": "​06/02/2016"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "Central African Republic Sanctions",
+            "​PROGRAM LAST UPDATED:": "7/8/20"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "Chinese Military Companies Sanctions",
+            "​PROGRAM LAST UPDATED:": "06/16/2021"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​Countering America's Adversaries Through Sanctions Act of 2017 (CAATSA)",
+            "​PROGRAM LAST UPDATED:": "2/3/21"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​Counter Narcotics Trafficking Sanctions",
+            "​PROGRAM LAST UPDATED:": "05/14/2021"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​Counter Terrorism Sanctions",
+            "​PROGRAM LAST UPDATED:": "06/28/2021"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​Cuba Sanctions",
+            "​PROGRAM LAST UPDATED:": "​04/13/2021"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​Cyber-Related Sanctions",
+            "​PROGRAM LAST UPDATED:": "04/15/2021"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​Democratic Republic of the Congo-Related Sanctions",
+            "​PROGRAM LAST UPDATED:": "10/3/21"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​Foreign Interference in a United States Election Sanctions",
+            "​PROGRAM LAST UPDATED:": "04/15/2021​"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​Global Magnitsky Sanctions",
+            "​PROGRAM LAST UPDATED:": "07/22/2021"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "Hong Kong-Related Sanctions",
+            "​PROGRAM LAST UPDATED:": "07/16/2021"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​Iran Sanctions",
+            "​PROGRAM LAST UPDATED:": "2/7/21"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​Iraq-Related Sanctions",
+            "​PROGRAM LAST UPDATED:": "​04/30/2021"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​Lebanon-Related Sanctions",
+            "​PROGRAM LAST UPDATED:": "​07/30/2010"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​Libya Sanctions",
+            "​PROGRAM LAST UPDATED:": "​08/06/2020"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "Magnitsky Sanctions",
+            "​PROGRAM LAST UPDATED:": "​12/10/2020"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "Mali-Related Sanctions",
+            "​PROGRAM LAST UPDATED:": "6/2/20"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​Nicaragua-Related Sanctions",
+            "​PROGRAM LAST UPDATED:": "9/6/21"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​Non-Proliferation Sanctions",
+            "​PROGRAM LAST UPDATED:": "2/7/21"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​North Korea Sanctions  ",
+            "​PROGRAM LAST UPDATED:": "8/12/20"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​Rough Diamond Trade Controls",
+            "​PROGRAM LAST UPDATED:": "​06/18/2018"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "Russian Harmful Foreign Activities Sanctions",
+            "​PROGRAM LAST UPDATED:": "04/15/2021"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​Somalia Sanctions",
+            "​PROGRAM LAST UPDATED:": "04/27/2021"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​Sudan and Darfur Sanctions",
+            "​PROGRAM LAST UPDATED:": "​05/19/2021"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​South Sudan-Related Sanctions",
+            "​PROGRAM LAST UPDATED:": "02/26/2020"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​Syria Sanctions",
+            "​PROGRAM LAST UPDATED:": "06/17/2021"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "Syria-Related Sanctions",
+            "​PROGRAM LAST UPDATED:": "12/22/2020"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​Transnational Criminal Organizations",
+            "​PROGRAM LAST UPDATED:": "7/4/21"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​Ukraine-/Russia-Related Sanctions",
+            "​PROGRAM LAST UPDATED:": "05/21/2021"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​Venezuela-Related Sanctions",
+            "​PROGRAM LAST UPDATED:": "07/20/2021"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​Yemen-Related Sanctions",
+            "​PROGRAM LAST UPDATED:": "05/20/2021"
+        },
+        {
+            "​ACTIVE SANCTIONS PROGRAMS:": "​Zimbabwe Sanctions",
+            "​PROGRAM LAST UPDATED:": "​08/05/2020"
+        }
+    ],
+    "Sheet3": [
+        {
+            "https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information": "https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-list-sdn-list/program-tag-definitions-for-ofac-sanctions-lists"
+        },
+        {
+            "https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information": "https://home.treasury.gov/policy-issues/financial-sanctions/consolidated-sanctions-list-non-sdn-lists"
+        }
+    ],
+    "Sheet4": [
+        {
+            "Program Tag:": "​[561-RELATED]",
+            "​Definition:": "​Correspondent Account or Payable-Through Account Sanctions related to 31 C.F.R. part 561",
+            "Sanctions List:": "CAPTA"
+        },
+        {
+            "Program Tag:": "[BALKANS]​",
+            "​Definition:": "Western Balkans Stabilization Regulations, 31 C.F.R. part 588; Executive Order 13304",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[BELARUS]​",
+            "​Definition:": "Belarus Sanctions Regulations, 31 C.F.R. part 548; Executive Order 13405",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[BPI-PA]​",
+            "​Definition:": "Blocked Pending Investigation, Patriot Act",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[BPI-SDNTK]​",
+            "​Definition:": "Blocked Pending Investigation, Foreign Narcotics Kingpin Sanctions Regulations, 31 C.F.R. part 598",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[BURMA-EO14014]",
+            "​Definition:": "Executive Order 14014",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "​[BURUNDI]",
+            "​Definition:": "​Executive Order 13712",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[CAATSA - IRAN]",
+            "​Definition:": "Countering America's Adversaries Through Sanctions Act of 2017 (CAATSA) - Title I",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "​[CAATSA - RUSSIA]",
+            "​Definition:": "​Countering America's Adversaries Through Sanctions Act of 2017 (CAATSA) - Title II",
+            "Sanctions List:": "​NS-MBS / SDN"
+        },
+        {
+            "Program Tag:": "​[CAR]",
+            "​Definition:": "​Central African Republic Sanctions, 31 C.F.R. part 553",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[CMIC-EO13959]",
+            "​Definition:": "Executive Order 13959 as amended by Executive Order 14032",
+            "Sanctions List:": "NS-CMIC"
+        },
+        {
+            "Program Tag:": "[CUBA]​",
+            "​Definition:": "Cuban Assets Control Regulations, 31 C.F.R. part 515",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "​[CYBER2]",
+            "​Definition:": "Executive Order 13694; ​Executive Order 13757",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[DARFUR]​",
+            "​Definition:": "Darfur Sanctions Regulations, 31 C.F.R. part 546",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[DPRK]​",
+            "​Definition:": "North Korea Sanctions Regulations, 31 C.F.R. part 510; Executive Order 13551",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "​[DPRK2]",
+            "​Definition:": "​Executive Order 13687",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "​[DPRK3]",
+            "​Definition:": "​Executive Order 13722",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "​[DPRK4]",
+            "​Definition:": "Executive Order 13810",
+            "Sanctions List:": "​SDN"
+        },
+        {
+            "Program Tag:": "[DPRK-NKSPEA]",
+            "​Definition:": "North Korea Sanctions and Policy Enhancement Act of 2016, Public Law 114-122, as amended by the Countering America’s Adversaries Through Sanctions Act, Public Law 115-44 and National Defense Appropriations Act of 2020, Public Law 116-92​",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[DRCONGO]​",
+            "​Definition:": "Democratic Republic of the Congo Sanctions Regulations, 31 C.F.R. 547​",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[​ELECTION-EO13848]",
+            "​Definition:": "Executive Order 13848 ",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[FSE-SY]​",
+            "​Definition:": "Foreign Sanctions Evaders Executive Order 13608 - Syria​",
+            "Sanctions List:": "FSE"
+        },
+        {
+            "Program Tag:": "[FSE-IR]​",
+            "​Definition:": "Foreign Sanctions Evaders Executive Order 13608 - Iran​",
+            "Sanctions List:": "FSE"
+        },
+        {
+            "Program Tag:": "[FSE-WMD]​",
+            "​Definition:": "​Foreign Sanctions Evaders Executive Order 13608 - Non Proliferation",
+            "Sanctions List:": "FSE"
+        },
+        {
+            "Program Tag:": "[FSE-SDGT]​",
+            "​Definition:": "Foreign Sanctions Evaders Executive Order 13608 - Anti-terrorism​",
+            "Sanctions List:": "FSE"
+        },
+        {
+            "Program Tag:": "[FTO]​",
+            "​Definition:": "Foreign Terrorist Organizations Sanctions Regulations, 31 C.F.R. part 597",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "​[GLOMAG]",
+            "​Definition:": "Executive Order 13818 -  Global Magnitsky",
+            "Sanctions List:": "​SDN"
+        },
+        {
+            "Program Tag:": "[HIFPAA]",
+            "​Definition:": "Hizballah International Financing Prevention Amendments Act of 2018, Public Law No: 115-272",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[HK-EO13936]",
+            "​Definition:": "Executive Order 13936",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[HRIT-SY]​",
+            "​Definition:": "Executive Order 13606  - Syria​",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[HRIT-IR]​",
+            "​Definition:": "Executive Order 13606  - Iran​",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[IFCA]​",
+            "​Definition:": "Iran Freedom and Counter-Proliferation Act of 2012 (IFCA) (PL 112-239)​",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[IFSR]​",
+            "​Definition:": "Iranian Financial Sanctions Regulations, 31 CFR part 561",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[IRAN]​",
+            "​Definition:": "Iranian Transactions and Sanctions Regulations, 31 CFR part 560​",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[IRAN-CON-ARMS-EO]",
+            "​Definition:": "Executive Order 13949",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[IRAN-EO13846]",
+            "​Definition:": "Executive Order 13846",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[IRAN-EO13876]",
+            "​Definition:": "Executive Order 13876",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[IRAN-EO13871]",
+            "​Definition:": "Executive Order 13871",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[IRAN-EO13902]",
+            "​Definition:": "Executive Order 13902",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[IRAN-HR]​",
+            "​Definition:": "Executive Order 13553​",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[IRAN-TRA]​",
+            "​Definition:": "Iran Threat Reduction and Syria Human Rights Act of 2012​",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[IRAQ2]​",
+            "​Definition:": "Executive Order 13315; Executive Order 13350",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[IRAQ3]​",
+            "​Definition:": "Executive Order 13438",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[IRGC]​",
+            "​Definition:": "Iranian Financial Sanctions Regulations, 31 CFR Part 561​",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[ISA]​",
+            "​Definition:": "Iran Sanctions Act, Executive Order 13574​",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[LEBANON]​",
+            "​Definition:": "Lebanon Sanctions Regulations, 31 C.F.R. part 549; Executive Order 13441",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[LIBYA2]​",
+            "​Definition:": "Libyan Sanctions,  31 C.F.R. part 570",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "​[LIBYA3]",
+            "​Definition:": "Executive Order 13726",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[MAGNIT]​",
+            "​Definition:": "Sergei Magnitsky Rule of Law Accountability Act of 2012​",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[MALI-EO13882]",
+            "​Definition:": "Executive Order 13882",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[NDAA]",
+            "​Definition:": "Section 1245 of the National Defense Authorization Act for Fiscal Year 2012, P.L. 112-81, As Amended Through Public Law 115-91, Enacted December 12, 2017",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[NICARAGUA]",
+            "​Definition:": "Executive Order 13851"
+        },
+        {
+            "Program Tag:": "[NICARAGUA-NHRAA]",
+            "​Definition:": "Nicaragua Human Rights and Anticorruption Act of 2018",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[NPWMD]​",
+            "​Definition:": "Weapons of Mass Destruction Proliferators Sanctions Regulations, 31 C.F.R. part 544​",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "​[NS-ISA]",
+            "​Definition:": "​Non-SDN Iranian Sanctions Act, Executive Order 13574​",
+            "Sanctions List:": "NS-ISA"
+        },
+        {
+            "Program Tag:": "​[NS-PLC]​",
+            "​Definition:": "​Non-SDN, Palestinian Legislative Council List, General License 4​ issued pursuant to the Global Terrorism Sanctions Regulations (31 C.F.R. Part 594),",
+            "Sanctions List:": "PLC"
+        },
+        {
+            "Program Tag:": "[PEESA]",
+            "​Definition:": "Protecting Europe’s Energy Security Act (PEESA)",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[RUSSIA-EO14024]",
+            "​Definition:": "Executive Order 14024",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[SDGT]​",
+            "​Definition:": "Global Terrorism Sanctions Regulations, 31 C.F.R. part 594​",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[SDNT]​",
+            "​Definition:": "Narcotics Trafficking Sanctions Regulations, 31 C.F.R. part 536​",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[SDNTK]",
+            "​Definition:": "Foreign Narcotics Kingpin Sanctions Regulations, 31 C.F.R. part 598​",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[SOMALIA]​",
+            "​Definition:": "Somalia Sanctions Regulations, 31 C.F.R. part 551​",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[SUDAN]​",
+            "​Definition:": "Sudanese Sanctions Regulations, 31 C.F.R. part 538​",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "​[SOUTH SUDAN]​",
+            "​Definition:": "​South Sudan Sanctions Regulations, 31 C.F.R. part 558; Executive Order 13664",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[SYRIA]​",
+            "​Definition:": "Executive Order 13338; Executive Order 13399; Executive Order 13460; Executive Order 13572; Executive Order 13573; Executive Order 13582",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[SYRIA-CAESAR]",
+            "​Definition:": "Sections 7404-7438 of the National Defense Authorization Act for Fiscal Year 2020, Title LXXIV—Caesar Syria Civilian Protection Act of 2019​​",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[SYRIA-EO13894]",
+            "​Definition:": "Executive Order on the Situation in Syria of October 14, 2019",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[TCO]​",
+            "​Definition:": "Transnational Criminal Organizations Sanctions Regulations, 31 C.F.R. part 590; ​Executive Order 13581",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[UKRAINE-EO13660]​",
+            "​Definition:": "Executive Order 13660​",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[UKRAINE-EO13661]​",
+            "​Definition:": "Executive Order 13661​",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "​[UKRAINE-EO13662]",
+            "​Definition:": "​Executive Order 13662 (See Directive 1 As Amended, Directive 2 as Amended, Directive 3, Directive 4)",
+            "Sanctions List:": "SSI / SDN"
+        },
+        {
+            "Program Tag:": "​​[UKRAINE-EO13685]",
+            "​Definition:": "​Executive Order 13685",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "​[VENEZUELA]  ",
+            "​Definition:": "​​Executive Order 13692​",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "​[VENEZUELA-EO13850]",
+            "​Definition:": "​Executive Order 13850",
+            "Sanctions List:": "​SDN"
+        },
+        {
+            "Program Tag:": "[VENEZUELA-EO13884]",
+            "​Definition:": "Executive Order 13884",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "​[YEMEN]",
+            "​Definition:": "​Yemen Sanctions Regulations, 31 C.F.R. part 552",
+            "Sanctions List:": "SDN"
+        },
+        {
+            "Program Tag:": "[ZIMBABWE]​",
+            "​Definition:": "Zimbabwe Sanctions Regulations, 31 C.F.R. part 541; Executive Order 13391; Executive Order 13469"
+        }
+    ]
+}
